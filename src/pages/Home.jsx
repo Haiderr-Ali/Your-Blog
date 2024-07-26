@@ -22,7 +22,7 @@ function Home() {
                             <h1 className="text-8xl pb-3  hover:text-green-600">
                             <strong>Your Blog</strong>
                             </h1>
-                            <h2 className='hover:text-green-600 text-3xl pb-3'>Your Ultimate Destination for Technical Insights</h2>
+                            <h2 className='hover:text-green-600 text-3xl pb-3'>Your Ultimate Destination for Technical Insights.</h2>
                             <p className='text-2xl font-medium text-green-800'>Please Login to read post!</p>
                         </div>
                     </div>
